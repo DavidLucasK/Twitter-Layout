@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Twitter',
+  title: 'Página Inicial / Twitter',
   description: 'Twitter',
 }
 
