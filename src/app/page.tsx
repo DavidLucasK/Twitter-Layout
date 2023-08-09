@@ -3,7 +3,7 @@ import { Search, Home as HomeIcon, Bell, Mail, ClipboardList, Bookmark, BadgeChe
 
 export default function Home() {
   return (
-    <main>
+    <main className='flex items-center justify-center'>
       <div className='flex items-center px-[308px]'>
         <div className='sidebar-l'>
           <div className='h-screen' >
